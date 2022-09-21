@@ -1,6 +1,6 @@
 import React, { useEffect, useState } from 'react';
 import attachButtonListener from './attachButtonListener';
-import convertGqlargToObject from './convertGqlargToObject2'
+import convertGqlargToObject from './convertGqlargToObject'
 import createPopUpWindow from './createPopUpWindow';
 import updateCacheFromSessionStorage from './updateCacheFromSessionStorage';
 import determineArguements from './determineArguements';
