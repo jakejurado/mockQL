@@ -1,28 +1,26 @@
 {
-  "name": "mockql",
+  "name": "@jakejurado/mockql",
   "version": "1.0.0",
   "description": "A Library for working with GraphQL in React/Apollo",
-  "main": "./MockQuery",
+  "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/oslabs-beta/apollos_library.git"
+    "url": "git+https://github.com/jakejurado/mockQL.git"
   },
   "keywords": [
     "mock",
-    "data",
-    "GraphQl",
-    "Apollo",
-    "React",
     "dummy",
-    "data"
+    "graphql",
+    "apollo",
+    "react"
   ],
-  "author": "\"github.com/Autumn-Wallen, github.com/ZQland, github.com/jamie-clignett, github.com/jacob-jurado\"",
+  "author": "github.com/Autumn-Wallen, github.com/ZQland, github.com/jamie-clignett, github.com/jacob-jurado\\",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/oslabs-beta/apollos_library/issues"
+    "url": "https://github.com/jakejurado/mockQL/issues"
   },
-  "homepage": "https://github.com/oslabs-beta/apollos_library#readme"
+  "homepage": "https://github.com/jakejurado/mockQL#readme"
 }
