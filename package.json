@@ -22,5 +22,8 @@
   "bugs": {
     "url": "https://github.com/jakejurado/mockQL/issues"
   },
-  "homepage": "https://github.com/jakejurado/mockQL#readme"
+  "homepage": "https://github.com/jakejurado/mockQL#readme",
+  "dependencies": {
+    "react": "^18.2.0"
+  }
 }
